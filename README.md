@@ -56,7 +56,7 @@ This project builds upon the [OwlMind Framework](https://github.com/GenILab-FAU/
 ## 🔧 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/SyntaxSultansV1-StudyCompanion.git
+git clone https://github.com/VamsiNamballa/SyntaxSultansV1-StudyCompanion.git
 cd SyntaxSultansV1-StudyCompanion
 
 🔧 Step 2: Install Dependencies
